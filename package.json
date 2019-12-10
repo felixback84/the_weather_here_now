@@ -1,5 +1,5 @@
 {
-  "name": "the_weather_here",
+  "name": "the_weather_here_now",
   "version": "1.0.0",
   "description": "This is the data selfie app by Joey Lee.",
   "main": "index.js",
